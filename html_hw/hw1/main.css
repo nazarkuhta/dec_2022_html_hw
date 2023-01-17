@@ -1,0 +1,39 @@
+.display_flex{
+    display: flex;
+}
+.header{
+
+    justify-content: center;
+
+}
+.simpsons_img{
+height: 400px;
+    justify-content: center;
+}
+
+
+.menu{
+justify-content: space-evenly;
+    background: yellow;
+    height: 70px;
+}
+.simpsons_info{
+    align-items: center;
+    justify-content: center;
+    background: cornflowerblue;
+    height: 70px;
+}
+.simpson_info{
+    justify-content: center;
+    background: lightblue;
+}
+.phrases {
+    justify-content: center;
+    align-items: center;
+}
+.back_to_main{
+    justify-content: center;
+    align-items: center;
+    background: lightgreen;
+}
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fbd2547-f5de-4108-aa8c-b7d718961227" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec_2022_html_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/bart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/homer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/images/Bart_Simpson.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/images/Homer_Simpson.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/images/Lisa_Simpson_official.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/images/The_Simpsons_Simpsons_FamilyPicture.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/lisa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw1/main.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KSwdp74JlbHamEmUw5qJ0vy83Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/a1/IdeaProjects/dec_2022_html_hw/html_hw/hw1/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html_hw/hw1/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fbd2547-f5de-4108-aa8c-b7d718961227" name="Changes" comment="" />
+      <created>1673981382044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673981382044</updated>
+      <workItem from="1673981383757" duration="3203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
