@@ -1,0 +1,39 @@
+.main{
+background: lightblue;
+    width: 600px;
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+align-items: center;
+background: cornflowerblue;
+    height: 150px;
+    margin: 20px;
+}
+.mid_blocks{
+margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.mid_block{
+    justify-content: center;
+    align-items: center;
+    background: blue;
+display: flex;
+    width: 175px;
+    height: 150px;
+}
+.footer{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: cornflowerblue;
+    height: 250px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}

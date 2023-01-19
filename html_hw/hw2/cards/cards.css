@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.card_holder{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    padding: 5px;
+    flex-wrap: wrap;
+display: flex;
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    justify-content: space-around;
+    align-items: center;
+    border:solid black 1px;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: medium;
+}
+.card_button{
+    display: flex;
+    align-items: center;
+height: 40px;
+    box-sizing: border-box;
+    border: solid black 1px;
+}
+.card_info{
+    display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+}
