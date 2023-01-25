@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbd2547-f5de-4108-aa8c-b7d718961227" name="Changes" comment="hw1 update">
-      <change afterPath="$PROJECT_DIR$/html_hw/hw2/blue blocks/blue_blocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_hw/hw2/blue blocks/blue_blocks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_hw/hw2/cards/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_hw/hw2/cards/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw3/hw3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_hw/hw3/hw3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_hw/hw2/blue blocks/blue_blocks.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_hw/hw2/blue blocks/blue_blocks.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/a1/IdeaProjects/dec_2022_html_hw/html_hw/hw1/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/a1/IdeaProjects/dec_2022_html_hw/html_hw/hw3/cards1/card1_img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html_hw/hw3/cards1/card1_img" />
       <recent name="$PROJECT_DIR$/html_hw/hw1/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +71,12 @@
       <option name="presentableId" value="Default" />
       <updated>1673981382044</updated>
       <workItem from="1673981383757" duration="4562000" />
-      <workItem from="1674149016071" duration="3456000" />
+      <workItem from="1674149016071" duration="3749000" />
+      <workItem from="1674162141958" duration="26000" />
+      <workItem from="1674237338941" duration="64000" />
+      <workItem from="1674583832021" duration="1725000" />
+      <workItem from="1674600260957" duration="56000" />
+      <workItem from="1674644425694" duration="6692000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <created>1673985009348</created>
@@ -87,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673994104947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw1 update">
+      <created>1674152608129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674152608129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
